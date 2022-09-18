@@ -1,3 +1,3 @@
 # moon-light-game
 
-Um jogo de plataforma para treinar as técnias mais usadas nesse gênero multifacetado.
+Um jogo de plataforma para treinar as técnicas mais usadas nesse gênero multifacetado.
